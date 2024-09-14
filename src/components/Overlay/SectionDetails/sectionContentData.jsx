@@ -8,10 +8,12 @@ const sectionsContentData = [
     title: "About us",
     content: (
       <p>
-        Welcome to our 3D portfolio, created during Voyage #43 on the Chingu
-        platform! This experience helped us boost our confidence and develop our
-        soft and technical skills, gearing us up for future challenges. Check it
-        out and witness the amazing outcome of our teamwork! 📱✨🎉
+        Welcome to our 3D portfolio, showcasing KOD KALAKAR's! 
+        With expertise in design, development, and problem-solving,
+         we craft impactful solutions for real-world challenges. 
+         Our mission is to push tech boundaries, continuously grow, 
+         and excel in every competition. Together, we innovate and 
+         collaborate to make a difference! 📱✨🎉
       </p>
     ),
   },
@@ -22,22 +24,22 @@ const sectionsContentData = [
     content: (
       <ul className="credits">
         <li>
-          <a href="https://www.chingu.io/">Chingu</a>
+          <a href="https://github.com/Arpitgarg07/">Arpit Garg</a>
         </li>
         <li>
-          <a href="https://threejs-journey.com/">Bruno Simon</a>
+          <a href="https://github.com/jainhardik06/">Hardik Jain</a>
         </li>
         <li>
-          <a href="https://poly.pizza">Poly Pizza</a>
+          <a href="https://github.com/prakriti0803/">prakriti</a>
         </li>
         <li>
-          <a href="https://www.syntystudios.com">Synty Studios</a>
+          <a href="https://github.com/Vikhyat-agrawal/">Vikhyat agrawal</a>
         </li>
-        <li>
+        {/* <li>
           <a href="https://streakbyte.com">Streak Byte</a>
-        </li>
+        </li> */}
         <li>
-          <a href="https://github.com/chingu-voyages/v43-tier3-team-29">
+          <a href="https://github.com/kodkalakarjeet">
             More Credits
           </a>
         </li>

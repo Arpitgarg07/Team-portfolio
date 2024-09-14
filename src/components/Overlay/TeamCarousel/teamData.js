@@ -1,62 +1,62 @@
 // Team data
 const teamData = [
   {
-    name: "Danney",
+    name: "Hardik Jain",
     image: "/images/danney-min.jpg",
     links: [
-      { title: "linkedin", link: "https://www.linkedin.com/in/danneytrieu" },
-      { title: "github", link: "https://github.com/Danneytrieu" },
-      { title: "twitter", link: "https://github.com/Danneytrieu" },
-      { title: "portfolio", link: "https://danneytrieu.design/" },
+      { title: "linkedin", link: "https://www.linkedin.com/in/jainhardik06" },
+      { title: "github", link: "https://github.com/jainhardik06" },
+      { title: "twitter", link: "https://x.com" },
+      { title: "portfolio", link: "https://github.com/jainhardik06" },
     ],
   },
   {
-    name: "Sean",
+    name: "AI",
     image: "/images/sean-min.jpg",
     links: [
-      { title: "linkedin", link: "https://github.com/seantai" },
-      { title: "github", link: "https://github.com/seantai" },
-      { title: "twitter", link: "https://twitter.com/_seantai" },
-      { title: "portfolio", link: "https://seantai.dev/" },
+      { title: "linkedin", link: "https://linkedin.com" },
+      { title: "github", link: "https://github.com" },
+      { title: "twitter", link: "https://twitter.com/" },
+      { title: "portfolio", link: "https://github.io" },
     ],
   },
   {
-    name: "Jane",
+    name: "Prakriti",
     image: "/images/jane-min.jpg",
     links: [
       {
         title: "linkedin",
-        link: "https://www.linkedin.com/in/eugenia-ishunina",
+        link: "https://www.linkedin.com/in/prakriti-69b832167/",
       },
-      { title: "github", link: "https://github.com/JaneMoroz" },
-      { title: "twitter", link: "https://twitter.com/jane_moroz" },
-      { title: "portfolio", link: "https://jane-moroz-dev.netlify.app/" },
+      { title: "github", link: "https://github.com/prakriti0803/" },
+      { title: "twitter", link: "https://X.com/" },
+      { title: "portfolio", link: "https://github.com/prakriti0803/" },
     ],
   },
   {
-    name: "Szymon",
+    name: "Vikhyat agrawal",
     image: "/images/szymon-min.jpg",
     links: [
       {
         title: "linkedin",
-        link: "https://github.com/Speckope",
+        link: "https://www.linkedin.com/in/vikhyat-agrawal-8225b3290/",
       },
-      { title: "github", link: "https://github.com/Speckope" },
-      { title: "twitter", link: "https://github.com/Speckope" },
-      { title: "portfolio", link: "https://github.com/Speckope" },
+      { title: "github", link: "https://github.com/Vikhyat-agrawal" },
+      { title: "twitter", link: "https://X.com" },
+      { title: "portfolio", link: "https://github.com/Vikhyat-agrawal" },
     ],
   },
   {
-    name: "Zoran",
+    name: "Arpit Garg",
     image: "/images/zoran-min.jpg",
     links: [
       {
         title: "linkedin",
-        link: "https://github.com/zvitez",
+        link: "https://www.linkedin.com/in/arpitgarg5689/",
       },
-      { title: "github", link: "https://github.com/zvitez" },
-      { title: "twitter", link: "https://github.com/zvitez" },
-      { title: "portfolio", link: "https://github.com/zvitez" },
+      { title: "github", link: "https://github.com/Arpitgarg07" },
+      { title: "twitter", link: "https://x.com/Arpitgarg5689" },
+      { title: "portfolio", link: "https://github.com/Arpitgarg07" },
     ],
   },
 ];

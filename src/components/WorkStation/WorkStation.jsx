@@ -22,7 +22,7 @@ export function WorkStation() {
             className={activeTab === 1 ? "active" : ""}
           >
             Danney
-            <a target="_blank" href="https://danneytrieu.design/">
+            <a target="_blank" href="https://www.linkedin.com/in/arpitgarg5689/">
               <MdOutlineOpenInNew />
             </a>
           </button>
@@ -31,7 +31,7 @@ export function WorkStation() {
             className={activeTab === 2 ? "active" : ""}
           >
             Sean
-            <a target="_blank" href="https://seantai.dev/">
+            <a target="_blank" href="https://portfolio">
               <MdOutlineOpenInNew />
             </a>
           </button>
@@ -40,7 +40,7 @@ export function WorkStation() {
             className={activeTab === 3 ? "active" : ""}
           >
             Jane
-            <a target="_blank" href="https://jane-moroz-dev.netlify.app/">
+            <a target="_blank" href="https://portfolio">
               <MdOutlineOpenInNew />
             </a>
           </button>
@@ -69,13 +69,13 @@ export function WorkStation() {
   const getIframeSource = () => {
     switch (activeTab) {
       case 1:
-        return "https://danneytrieu.design/";
+        return "https://www.linkedin.com/in/arpitgarg5689/";
       case 2:
-        return "https://seantai.dev/";
+        return "https://portfolio";
       case 3:
-        return "https://jane-moroz-dev.netlify.app/";
+        return "https://portfolio";
       default:
-        return "https://danneytrieu.design/";
+        return "https://www.linkedin.com/in/arpitgarg5689/";
     }
   };
 

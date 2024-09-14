@@ -114,7 +114,7 @@ const SectionDetails = () => {
                     onMouseLeave={() => updateCursorType("pointer")}
                     target="_blank"
                     className="section-btn"
-                    href="https://github.com/chingu-voyages/v43-tier3-team-29"
+                    href="https://github.com/Arpitgarg07"
                   >
                     github repo <HiOutlineArrowRight />
                   </a>
